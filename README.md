@@ -40,3 +40,7 @@ Using Train and Test split with a bagged trees model to predict sales.
 ![machine5code](https://user-images.githubusercontent.com/85266898/126206640-4e6d7279-a468-4ff5-9441-246b5e62b68a.png)
 
 A graph to show the best number of estimators to use for the model.
+
+#Summary
+
+To conclude with, After cleaning the data and looking at several visualizations, the SuperMarket Type1 is the best Market overall. We see the most item sales through this type of market and Total Revenue, but that does not make the other outlet types invalid. In areas that are heavily populated, SuperMarket Type1 is great because of its size and amount off items it offers. In lesser populated areas, Grocery Stores are great for lower volume sales.
